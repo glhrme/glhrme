@@ -7,7 +7,7 @@ Front-End Developer at OSF Digital
 [
 ![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Dos%20Santos-FF924C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glhrme)
 ](https://www.linkedin.com/in/glhrme)
-[![Gmail Badge](https://img.shields.io/badge/-guilherme@guisantos.com.br-FF924C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme@guisantos.com.br)](guilherme@guisantos.com.br)
+[![Gmail Badge](https://img.shields.io/badge/-guilherme@guisantos.com.br-FF924C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme@guisantos.com.br)](mailto:guilherme@guisantos.com.br)
 
 
 Desenvolvedor Front End com experiência em aplicações com React JS, criação de páginas dinâmicas e gerenciáveis com backend em NodeJS.  
