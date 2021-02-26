@@ -1,8 +1,9 @@
 
+
 ![GSantos](http://logo.guisantos.com.br/GSantos_nobackgroundSmall.png)
 
 # Guilherme A. dos Santos
-Front-End Developer at OSF Digital
+Software Engineer at [PagSeguro](https://pagseguro.uol.com.br/)![PagSeguro PagBank](http://www.reservetur.com/images/pagamento.png)
 
 [
 ![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Dos%20Santos-FF924C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glhrme)
@@ -16,13 +17,14 @@ I participated in new projects with architecture definition, design patterns, re
 
 ## 👨‍💻  Professional Experiences ️
   
-  **OSF Digital - (Dec/19 - Moment)**
+  **PagSeguro/PagBank - (Jan/21 - Moment)**
+  **OSF Digital - (Dec/19 - Dec/2020)**
   **Automotion Ind. - (Mar/18 - Dec/19)**
   
 Tecnologias que utilizo no dia-a-dia  
 - TypeScript;  
 - React  
-- SASS  
+- Styled components
 - Webpack  
 - Jest  
   
@@ -34,6 +36,5 @@ Algumas que conheço e entendo são
 - MongoDB  
   
 Libs que utilizo frequentemente  
-- Styled-components  
 - Axios  
 - ESLint
