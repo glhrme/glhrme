@@ -18,7 +18,9 @@ I participated in new projects with architecture definition, design patterns, re
 ## 👨‍💻  Professional Experiences ️
   
   **PagSeguro/PagBank - (Jan/21 - Moment)**
+  
   **OSF Digital - (Dec/19 - Dec/2020)**
+  
   **Automotion Ind. - (Mar/18 - Dec/19)**
   
 Tecnologias que utilizo no dia-a-dia  
