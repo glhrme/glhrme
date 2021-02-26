@@ -3,7 +3,7 @@
 ![GSantos](http://logo.guisantos.com.br/GSantos_nobackgroundSmall.png)
 
 # Guilherme A. dos Santos
-Software Engineer at [PagSeguro](https://pagseguro.uol.com.br/)![PagSeguro PagBank](http://www.reservetur.com/images/pagamento.png)
+Software Engineer at [PagSeguro](https://pagseguro.uol.com.br/)![PagSeguro PagBank](https://assets.pagseguro.com.br/ps-bootstrap/v6.77.4/img/logos/pagbank/pagbank-logo-animado_35px.gif)
 
 [
 ![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Dos%20Santos-FF924C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glhrme)
