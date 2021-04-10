@@ -22,21 +22,3 @@ I participated in new projects with architecture definition, design patterns, re
   **OSF Digital - (Dec/19 - Dec/2020)**
   
   **Automotion Ind. - (Mar/18 - Dec/19)**
-  
-Tecnologias que utilizo no dia-a-dia  
-- TypeScript;  
-- React  
-- Styled components
-- Webpack  
-- Jest  
-  
-Algumas que conheço e entendo são  
-- JS ( OO, ES6, Prototipagem )  
-- C#  
-- React Native  
-- MySQL  
-- MongoDB  
-  
-Libs que utilizo frequentemente  
-- Axios  
-- ESLint
