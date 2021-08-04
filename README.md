@@ -8,15 +8,13 @@ A Web Developer who moved to iOS Development
 - 😄 Pronouns: Gui 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/glhrme) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/glhrme/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://api.whatsapp.com/send?phone=5519996708999)  
+![GitHub metrics](https://metrics.lecoq.io/glhrme)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=glhrme) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glhrme)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/glhrme)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=glhrme)  
+ 
 
 ## 👨‍💻  Professional Experiences ️
   
@@ -26,3 +24,7 @@ A Web Developer who moved to iOS Development
 
 **Automotion Ind. - (Mar/18 - Dec/19)**
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/glhrme) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/glhrme/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://api.whatsapp.com/send?phone=5519996708999)  
