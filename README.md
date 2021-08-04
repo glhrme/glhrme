@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Guilherme
+### Hi there 👋🏾, my name is Guilherme
 #### I am iOS Developer at Pagseguro | PagBank ![I am iOS Developer at Pagseguro | PagBank](https://assets.pagseguro.com.br/ps-bootstrap/v6.77.4/img/logos/pagbank/pagbank-logo-animado_35px.gif)
 ![Apple Boy](https://blog.zero3games.com.br/wp-content/uploads/2019/04/Wordpress-Banner-Posts-min-1.png)
 
