@@ -1,5 +1,5 @@
 ### Hi there 👋🏾, my name is Guilherme
-#### I am iOS Developer at Pagseguro | PagBank ![I am iOS Developer at Pagseguro | PagBank](https://assets.pagseguro.com.br/ps-bootstrap/v6.77.4/img/logos/pagbank/pagbank-logo-animado_35px.gif)
+#### I am iOS Developer at Banco Master ![I am iOS Developer at Banco Master](https://play-lh.googleusercontent.com/JRtl21aKXosyXDG4WyvHNydxpW7c5uaCHOzc57naJpn9451z26ooFhxuF5oyd9lH8Hli=w500-h280-rw)
 ![Apple Boy](https://blog.zero3games.com.br/wp-content/uploads/2019/04/Wordpress-Banner-Posts-min-1.png)
 
 A Web Developer who moved to iOS Development
@@ -17,8 +17,10 @@ A Web Developer who moved to iOS Development
  
 
 ## 👨‍💻  Professional Experiences ️
+ 
+**Banco Master - (Fev/22 - Moment)**
   
-**PagSeguro/PagBank - (Jan/21 - Moment)**
+**PagSeguro/PagBank - (Jan/21 - Fev/22)**
 
 **OSF Digital - (Dec/19 - Dec/2020)**
 
