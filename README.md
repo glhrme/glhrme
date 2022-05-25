@@ -1,6 +1,6 @@
 ### Hi there 👋🏾, my name is Guilherme, I'm a iOS Developer!
 
-![I am iOS Developer at Banco Master](https://play-lh.googleusercontent.com/JRtl21aKXosyXDG4WyvHNydxpW7c5uaCHOzc57naJpn9451z26ooFhxuF5oyd9lH8Hli=w500-h280-rw)
+![I am iOS Developer at Banco Master](https://seucreditodigital.com.br/wp-content/uploads/2021/08/Linker-banco-digital.jpeg)
 
 A Web Developer who moved to iOS Development
 
@@ -18,7 +18,9 @@ A Web Developer who moved to iOS Development
 
 ## 👨‍💻  Professional Experiences ️
  
-**Banco Master - (Fev/22 - Moment)**
+**Linker Bank - (May/22 - Moment)**
+
+**Banco Master - (Fev/22 - May/22)**
   
 **PagSeguro/PagBank - (Jan/21 - Fev/22)**
 
