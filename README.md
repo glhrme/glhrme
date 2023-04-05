@@ -1,10 +1,9 @@
 ### Hi there 👋🏾, my name is Guilherme, I'm a iOS Developer!
 
-![I am iOS Developer at Banco Master](https://seucreditodigital.com.br/wp-content/uploads/2021/08/Linker-banco-digital.jpeg)
+![I am iOS Developer at TQI]([https://seucreditodigital.com.br/wp-content/uploads/2021/08/Linker-banco-digital.jpeg](https://pbs.twimg.com/profile_images/1631290298142801926/RyDnI_zZ_400x400.jpg))
 
 A Web Developer who moved to iOS Development
 
-- 🌱 I’m currently learning routing in iOS 
 - 😄 Pronouns: Gui 
 
 
@@ -17,8 +16,9 @@ A Web Developer who moved to iOS Development
  
 
 ## 👨‍💻  Professional Experiences ️
- 
-**Linker Bank - (May/22 - Moment)**
+**TQI | PagSeguro - (Dec/22 - Current)** 
+
+**Linker Bank - (May/22 - Dec/22)**
 
 **Banco Master - (Fev/22 - May/22)**
   
@@ -31,4 +31,4 @@ A Web Developer who moved to iOS Development
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/glhrme) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/glhrme/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://api.whatsapp.com/send?phone=5519996708999)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://api.whatsapp.com/send?phone=5519981420573)  
