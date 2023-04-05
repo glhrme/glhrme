@@ -1,6 +1,6 @@
 ### Hi there 👋🏾, my name is Guilherme, I'm a iOS Developer!
 
-![I am iOS Developer at TQI]([https://seucreditodigital.com.br/wp-content/uploads/2021/08/Linker-banco-digital.jpeg](https://pbs.twimg.com/profile_images/1631290298142801926/RyDnI_zZ_400x400.jpg))
+![I am iOS Developer at TQI](https://pbs.twimg.com/profile_images/1631290298142801926/RyDnI_zZ_400x400.jpg)
 
 A Web Developer who moved to iOS Development
 
