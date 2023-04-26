@@ -1,8 +1,8 @@
-### Hi there 👋🏾, my name is Guilherme, I'm a iOS Developer!
+### Hi there 👋🏾, my name is Guilherme, I'm a Mobile Developer!
 
 ![I am iOS Developer at TQI](https://pbs.twimg.com/profile_images/1631290298142801926/RyDnI_zZ_400x400.jpg)
 
-A Web Developer who moved to iOS Development
+A Web Developer who moved to Mobile Development
 
 - 😄 Pronouns: Gui 
 
@@ -20,9 +20,9 @@ A Web Developer who moved to iOS Development
 
 **Linker Bank - (May/22 - Dec/22)**
 
-**Banco Master - (Fev/22 - May/22)**
+**Banco Master - (Feb/22 - May/22)**
   
-**PagSeguro/PagBank - (Jan/21 - Fev/22)**
+**PagSeguro/PagBank - (Jan/21 - Feb/22)**
 
 **OSF Digital - (Dec/19 - Dec/2020)**
 
